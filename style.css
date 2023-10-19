@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #8c1044;
+    font-family: 'Titillium Web', sans-serif;
+}
+header {
+    background-color: #8c1044;
+    color: #fbbd3c;
+    text-align: center;
+    padding: 25px 0;
+}
+
+insta-logo {
+    width: 10px;
+}
